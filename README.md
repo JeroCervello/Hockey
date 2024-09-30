@@ -1,2 +1,1 @@
-# hockey
-Desafío integrador Git &amp; GitHub - EGG
+# Migthy Ducks Hockey League
